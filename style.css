@@ -12,7 +12,7 @@ body{
 
 .banner{
     height: 100vh;
-    background-image: url(../static/udara_jakarta.jpg);
+    background-image: url(../udara_jakarta.jpg);
     background-size: cover;
     background-position-y: -70px;
     background-repeat: no-repeat;
